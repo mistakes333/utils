@@ -23,11 +23,12 @@ if (videoId) {
 ```
 
 ## Function: `youtube_parser`
-### Description:
+
+### Description
 * Parses a YouTube video URL and extracts the video ID.
-### Parameters:
+### Parameters
 * url (string): The YouTube video URL.
-### Returns:
+### Returns
 * If a valid video ID is found, returns the video ID (string).
 * If no valid video ID is found, returns false.
 
@@ -47,3 +48,5 @@ if (videoId) {
 ```
 
 ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
