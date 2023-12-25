@@ -4,14 +4,14 @@ A lightweight JavaScript function designed to parse YouTube video URLs and effor
 ## Installation
 
 ```bash
-npm install @mistakes/yt-parser
+npm install @mistakes333/yt-parser
 ```
 ## Usage
 
 ```js
-const { youtube_parser } = require('@mistakes/yt-parser);
+const { youtube_parser } = require('@mistakes333/yt-parser);
 
-const url = 'https://www.youtube.com/watch?v=aazJK_P2HCM';
+const url = 'https://youtu.be/Z9GALbeNd88?si=oiav5Y3Tx1yd7Jz9'; // ex. https://music.youtube.com/watcv=Z9GALbeNd88&si=VqD4hbprat0AgsdO
 const videoId = youtube_parser(url);
 
 if (videoId) {
