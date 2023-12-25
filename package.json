@@ -1,6 +1,6 @@
 {
-  "name": "@mistakes/yt-utils",
-  "version": "1.0.",
+  "name": "yt-parser",
+  "version": "1.0.0",
   "description": "JavaScript function for extracting video ID from YouTube or YouTube Music URLs",
   "main": "index.js",
   "keywords": [
