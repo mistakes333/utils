@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@mt333/utils",
   "version": "1.0.0",
   "description": "JavaScript function for extracting video ID from YouTube or YouTube Music URLs",
   "main": "index.js",
