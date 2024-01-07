@@ -8,7 +8,7 @@ npm install yt-parser
 ```
 ## There is no need to install with a command to run immediately.
 ```js
-import { youtube_parser } from "https://esm.sh/gh/mistakes333/yt-parser@c1ce76d465";
+import { youtube_parser } from "https://esm.sh/gh/mistakes333/yt-parser@7eaee4a422";
 ```
 ## Usage
 
