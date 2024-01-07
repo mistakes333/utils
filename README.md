@@ -4,7 +4,7 @@ A lightweight JavaScript function designed to parse YouTube video URLs and effor
 ## Installation 
 
 ```bash
-npm install @mistakes333/yt-parser
+npm install yt-parser
 ```
 ## There is no need to install with a command to run immediately.
 ```js
