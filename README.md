@@ -1,10 +1,13 @@
 # YT-PARSER
 A lightweight JavaScript function designed to parse YouTube video URLs and effortlessly extract the video ID.
 
-## Installation
+## Installation or Not installing 
 
 ```bash
 npm install @mistakes333/yt-parser
+```
+```js
+import { youtube_parser } from "https://esm.sh/gh/mistakes333/yt-parser@c1ce76d465";
 ```
 ## Usage
 
