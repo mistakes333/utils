@@ -11,8 +11,5 @@
     "JavaScript function"
   ],
   "author": "mistakes333",
-  "license": "MIT",
-  "esm.sh": {
-    "bundle": false,
-  }
+  "license": "MIT"
 }
