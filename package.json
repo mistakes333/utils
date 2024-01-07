@@ -11,5 +11,8 @@
     "JavaScript function"
   ],
   "author": "mistakes333",
-  "license": "MIT"
+  "license": "MIT",
+  "esm.sh": {
+    "bundle": true, // disables bundling behavior
+  }
 }
