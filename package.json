@@ -13,6 +13,6 @@
   "author": "mistakes333",
   "license": "MIT",
   "esm.sh": {
-    "bundle": true, // disables bundling behavior
+    "bundle": true
   }
 }
